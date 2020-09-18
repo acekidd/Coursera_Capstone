@@ -1,0 +1,3 @@
+US-Accident dataset is a countrywide car accident dataset, which covers 49 states of the United States. It contains 3 million cases of traffic accidents that 
+took place from February 2016 to December 2019. In this project, however, only the data of accidents that happened after February 2019 and were reported by 
+MapQuest was finally used in exploration analysis and modeling so that irrelevant factors can be eliminated to the greatest extent
